@@ -1,1 +1,1 @@
-This is a practice project to put my learnings about network calls, repositories and use cases, and software architecture to use. It's an app that displays different users and their posts, using the JSON placeholder API.
+This is a practice project to put my learnings from the Appvanced course about network calls, repositories and use cases, and software architecture to use. It's an app that displays different users and their posts, using the JSON placeholder API. It is written in Swift and uses Alamofire for the network calls. 
